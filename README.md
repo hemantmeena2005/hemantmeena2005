@@ -1,173 +1,100 @@
-# Hi, I'm Hemant 👋
+<h1 align="center">Hi there, I'm Hemant 👋</h1>
 
-### Aspiring Software Development Engineer | AI/ML Enthusiast | Computer Vision
+<h3 align="center">B.Tech–M.Tech IT @ ABV-IIITM Gwalior</h3>
 
-I'm an **Integrated B.Tech–M.Tech student in Information Technology at ABV-IIITM Gwalior**, passionate about building intelligent systems and scalable software.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;AI+%26+LLM+Explorer;Full-Stack+Developer;Computer+Vision+Tinkerer" alt="Typing SVG" />
+</p>
 
-My interests lie at the intersection of **Software Engineering, Machine Learning, Computer Vision, and Full-Stack Development**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hemant&color=blue&style=flat-square" alt="Profile views" />
+</p>
 
-* 🔭 Currently exploring **AI/ML, Computer Vision & Generative AI**
-* 🤖 Experienced with **PyTorch, YOLO, OpenCV and Machine Learning**
-* 💻 Building applications with **React, Next.js, Node.js and TypeScript**
-* 🧠 Solved **500+ DSA problems**
-* 🏆 LeetCode **Knight** — max rating **1850**
-* 🚀 Selected for **Amazon ML Summer School 2026**
-* 🛰️ AI/ML Intern at **DRDO, New Delhi**
+---
+
+## 🧭 About Me
+
+- 🤖 Diving deep into **Machine Learning** & **Artificial Intelligence**
+- 🧠 Building with **Large Language Models** (RAG, agents, retrieval pipelines)
+- 💻 Crafting end-to-end apps with **Full-Stack Development**
+- 🔬 Exploring **Computer Vision** for real-world problems
+- 🌱 Currently leveling up in LLM engineering & scalable backend systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-
-`Python` `C++` `Java` `JavaScript` `TypeScript`
-
-### AI / ML / Computer Vision
-
-`Python` `PyTorch` `OpenCV` `YOLO` `Machine Learning` `Deep Learning` `Computer Vision`
-
-### Full-Stack Development
-
-`React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS`
-
-### Databases
-
-`MongoDB` `MySQL` `PostgreSQL` `Appwrite`
-
-### Cloud & DevOps
-
-`AWS` `Docker` `Vercel`
-
-### Tools
-
-`Git` `GitHub` `GSAP` `Stripe` `Clerk`
-
----
-
-## 🚀 Featured Projects
-
-### 🛰️ Aerial Object Detection System
-
-**Python · YOLOv8 · OpenCV · PyTorch · Flask**
-
-AI-powered aerial object detection system developed during my **DRDO internship**.
-
-* 🎯 Achieved **95%+ mAP@50**
-* 🛩️ Detects **airplanes, drones and helicopters**
-* 🎥 Supports real-time object detection and tracking
-* 🌐 Built a web-based inference application
-* 📊 Provides annotated outputs and confidence visualization
-
----
-
-### 💰 Invoicely
-
-**Next.js · TypeScript · MongoDB · Stripe**
-
-A SaaS platform designed for automated client billing and financial management.
-
-* ⚡ Built using **Next.js 14**
-* 💳 Integrated **Stripe API**
-* 📧 Automated email workflows
-* 📊 Real-time analytics dashboards
-* 🔐 Secure authentication
-
----
-
-### 💬 ChatMate
-
-**Next.js · Appwrite · Tailwind CSS**
-
-A full-stack social media platform featuring real-time communication and content sharing.
-
-* 💬 Instant messaging
-* 🔐 User authentication
-* 📁 Media storage
-* ⚡ Real-time backend services
-* 🚀 Optimized data fetching and database queries
-
----
-
-### 🧬 Explainable AI for Melanoma Detection
-
-**Python · PyTorch · Computer Vision**
-
-A computer-aided diagnosis system using deep learning for melanoma classification.
-
-* 🧠 Convolutional Autoencoder for feature extraction
-* 🎯 Attention-based classification network
-* 📈 Achieved **90% accuracy**
-* 🔍 Visualization layers for model interpretability
-
----
-
-### 🚦 Automatic Traffic Violation Detection
-
-**Python · OpenCV · YOLO**
-
-Computer vision system for real-time traffic monitoring and violation detection.
-
-* 🚗 Vehicle detection
-* 🎥 Real-time monitoring
-* 🌦️ Robustness against environmental noise
-* 💡 Improved performance under varying lighting conditions
-
----
-
-## 🏆 Achievements
-
-* 🥇 Selected for **Amazon ML Summer School 2026**
-
-  * Top **3,000** among **1.5+ lakh applicants**
-* 🏅 **Rank 3590** — Goldman Sachs India Hackathon 2026 Coding Challenge
-* 💻 **500+ DSA problems** solved across LeetCode, GeeksforGeeks and CodeStudio
-* ♞ **LeetCode Knight** — Maximum Rating: **1850**
-* 🎓 Qualified **GATE 2026**
-* 🎓 Qualified **JEE Advanced 2022**
-
----
-
-## 📚 Currently Learning
-
-```text
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-Computer Vision
-        ↓
-Generative AI & LLMs
-        ↓
-MLOps & AI Systems
-```
-
-I'm particularly interested in understanding how ML models can be **trained, optimized, deployed and integrated into real-world applications**.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemantmeena2005&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantmeena2005&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <b>Languages</b><br/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
-
----
-
-## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://hemantmeena.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/hemantmeena049">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:hemantdowal49@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <b>Frontend</b><br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+<p align="left">
+  <b>Backend</b><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white"/>
+</p>
+
+<p align="left">
+  <b>AI / ML / LLM</b><br/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
 </p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+## 🚀 Projects
+
+### 🧠 [Your RAG Project Name] — Document Q&A with RAG
+A Retrieval-Augmented Generation system that lets users query documents in natural language, powered by **LangChain**, **Groq AI** for fast LLM inference, a **FastAPI** backend, and **PostgreSQL** for storage/metadata.
+
+### 💬 ChatMate
+Social media platform built with React, Next.js, Tailwind CSS and Appwrite.
+
+### 🔐 PassOp
+Password manager web application.
+
+### 🚦 Automatic Traffic Violation Detection
+Computer vision system using OpenCV and YOLO to detect and flag traffic violations in real time.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hemant&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemant&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="[Your LinkedIn]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="[Your Portfolio]" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:[Your Email]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
